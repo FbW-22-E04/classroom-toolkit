@@ -20,6 +20,10 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ## Tools and Apps
 
+### Editors
+
+- [readme.so](https://readme.so/editor) - Create markdown formatted text easily with this online tool
+
 ### Note Management
 
 ### Task Management
@@ -28,11 +32,9 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Task Automation
 
-[Bitwarden](https://bitwarden.com/) - **Bitwarden** is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault.
+- [Bitwarden](https://bitwarden.com/) - **Bitwarden** is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault.
 
 ### Knowledge Management
 
 ### Miscellaneous
-
-- [readme.so](https://readme.so/editor) - Create markdown formatted text easily with this online tool
  
