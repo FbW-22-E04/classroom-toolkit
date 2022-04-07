@@ -11,8 +11,11 @@
 ![screenshot zapier](https://www.jotform.com/blog/wp-content/uploads/2021/08/zapier-weekly-newsletter.jpg)
 
 
-Here is a link to download ![Zapier](https://zapier.com/how-it-works?utm_source=google&utm_medium=cpc&utm_campaign=gaw-gbl-nua-search-top_trademark-brand_exact&utm_adgroup=zapier&utm_term=zapier&utm_content=_pcrid_565801703197_pkw_zapier_pmt_e_pdv_c_slid__pgrid_119867242503_ptaid_aud-884433608118:kwd-298647606221_&gclid=Cj0KCQjwl7qSBhD-ARIsACvV1X1qrKMpfK-9NSfeXL2jsUXOqagJ1ZiT0zvM3fEzTfwPfi3gEcHbR70aAg0kEALw_wcB)
+Here is a link to download [Zapier](https://zapier.com/how-it-works?utm_source=google&utm_medium=cpc&utm_campaign=gaw-gbl-nua-search-top_trademark-brand_exact&utm_adgroup=zapier&utm_term=zapier&utm_content=_pcrid_565801703197_pkw_zapier_pmt_e_pdv_c_slid__pgrid_119867242503_ptaid_aud-884433608118:kwd-298647606221_&gclid=Cj0KCQjwl7qSBhD-ARIsACvV1X1qrKMpfK-9NSfeXL2jsUXOqagJ1ZiT0zvM3fEzTfwPfi3gEcHbR70aAg0kEALw_wcB)
 
 
+* Zapier is one of the leaders in task automation. Since being founded in 2012 and graduating from Y Combinator, Zapier has taken a central place as a third party connector of different web apps. With over 750 different apps you can integrate with, Zapier should be your first stop on your automation journey.
+
+* If you want a thorough breakdown of Zapier’s features and how you can use them, [Watch this Process Street video:](https://youtu.be/9WHr5aV6Us0)
 
 
