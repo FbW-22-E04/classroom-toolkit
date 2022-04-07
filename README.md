@@ -18,9 +18,7 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
   - [Mindfulness](#mindfulness)
 
 ## Resources
-
-- [FreeCodeCamp](https://www.freecodecamp.org/) - learn to code for free.
-
+ - [freecodecamp](https://freecodecamp.org)
 ## Tools and Apps
 
 ### Note Management
