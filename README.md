@@ -20,13 +20,13 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ## Tools and Apps
 
-### Editors
-
-- [readme.so](https://readme.so/editor) - Create markdown formatted text easily with this online tool
-
 ### Note Management
 
 ### Task Management
+
+### Editors
+
+- [readme.so](https://readme.so/editor) - Create markdown formatted text easily with this online tool
 
 ### Habit Trackers
 
