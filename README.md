@@ -18,6 +18,11 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ## Resources
 
+### For learning Web development
+
+- [FreeCodeCamp](https://www.freecodecamp.org/) - learn to code for free.
+
+
 ## Tools and Apps
 
 ### Note Management
