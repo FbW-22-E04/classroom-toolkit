@@ -17,7 +17,7 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
   - [Miscellaneous](#miscellaneous)
 
 ## Resources
-
+  - [freecodecamp](https://freecodecamp.org)
 ## Tools and Apps
 
 ### Note Management
