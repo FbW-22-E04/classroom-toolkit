@@ -7,6 +7,8 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 ## Table of Contents
 
 - [Resources](#resources)
+  - [FreeCodeCamp](#FreeCodeCamp) 
+
 - [Tools and Apps](#tools-and-apps)
   - [Note Management](#note-management)
   - [Task Management](#task-management)
@@ -15,9 +17,10 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
   - [Password Manager](#password-manager)
   - [Knowledge Management](#knowledge-management)
   - [Miscellaneous](#miscellaneous)
-  - [FreeCodeCamp](#FreeCodeCamp) 
-
+  
 ## Resources
+
+### FreeCodeCamp
 
 ## Tools and Apps
 
@@ -35,7 +38,6 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Miscellaneous
 
-### FreeCodeCamp
 
 
 - [readme.so](https://readme.so/editor) - Create markdown formatted text easily with this online tool
