@@ -15,7 +15,6 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
   - [Password Manager](#password-manager)
   - [Knowledge Management](#knowledge-management)
   - [Miscellaneous](#miscellaneous)
-- [Websites](#Websites)
   - [FreeCodeCamp](#FreeCodeCamp) 
 
 ## Resources
@@ -36,9 +35,8 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Miscellaneous
 
-## Websites
+### FreeCodeCamp
 
-### https://freeCodeCamp.org
 
 - [readme.so](https://readme.so/editor) - Create markdown formatted text easily with this online tool
  
