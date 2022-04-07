@@ -23,7 +23,7 @@
 
 - Use the following format: *[Resource](link) - Description*.
 
-- Additions should be added to the bottom of the relevant category.
+- Additions should be added to the bottom of the relevant category in the `README.md`.
 
 ### Structure:
 
