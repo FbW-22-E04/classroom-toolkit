@@ -20,6 +20,8 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ## Tools and Apps
 
+### [Bubbl.us](https://bubbl.us/) - **Bubbl.us** Is a web-based mind mapping app allows you to build, save, and share up to three mind maps on the free plan. This straight-forward tool makes it easy to start brainstorming from almost any device (since there's no need to download anything), and turn those ideas into useful presentations. You can try out their paid plans by starting a 30-day free trial.
+
 ### Note Management
 
 ### Task Management
@@ -33,4 +35,6 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 ### Knowledge Management
 
 ### Miscellaneous
+
+## Dating Apps
  
