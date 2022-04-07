@@ -22,6 +22,8 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Note Management
 
+- __[Miro](https://miro.com/)__ - The online collaborative whiteboard platform that enables distributed teams to work effectively together, from brainstorming with digital sticky notes to planning and managing agile workflows.
+
 ### Task Management
 
 ### Habit Trackers
