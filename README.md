@@ -26,7 +26,14 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Habit Trackers
 
-### Task Automation
+### Task Automation  
+
+### Password Manager  
+
+
+- [lastpass](https://www.lastpass.com/?irclickid=wExRUXTBvxyIUPI1PNzjt2CnUkGVjJw9C1O80U0&irgwc=1&clickid=wExRUXTBvxyIUPI1PNzjt2CnUkGVjJw9C1O80U0&utm_source=impact-radius&utm_medium=affiliate&utm_campaign=affiliate-program) - Lastpass is the best and one of the securest web in security and passwords.
+
+
 
 [Bitwarden](https://bitwarden.com/) - **Bitwarden** is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault.
 
