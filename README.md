@@ -39,6 +39,8 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 ### Task Automation
 * [Zapier](https://zapier.com/)   Zapier is a product that allows end users to integrate the web applications they use and automate workflows. The company is fully remote. As of 2021, it connects to more than 4,000 apps, with free and paid plans. 
 
+- [Zapier](https://zapier.com/) - Zapier is one of the most comprehensive automation tools available, and it’s a top choice for small and large businesses alike. 
+
 ### Password Manager
 
 [Bitwarden](https://bitwarden.com/) - **Bitwarden** is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault.
