@@ -24,7 +24,22 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Task Management
 
-### Habit Trackers
+### Habit Trackers  
+  #### Great tracking habit: git status 
+
+  > This will help your journey into avoiding mistakes in the process of pulling and then pushing your file or modification of it.  
+    
+    Very underestimated powerful tool is definetely git status. It allows you to understand at what point you are and if something is not exactly at the place you want it to be.
+
+    This doesn't mean you should doubt your work, but utilising this command can definetely improve the outcome.
+
+ _Click the link below for extra tips_   
+[Click](https://www.atlassian.com/git/tutorials/inspecting-a-repository)
+
+      
+
+
+  
 
 ### Task Automation
 
@@ -32,5 +47,7 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Knowledge Management
 
-### Miscellaneous
+### Miscellaneous 
+
+
  
