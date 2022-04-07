@@ -38,7 +38,9 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Knowledge Management
 
+- [Bubbl.us](https://bubbl.us/) - **Bubbl.us** Is a web-based mind mapping app allows you to build, save, and share up to three mind maps on the free plan.
+
 ### Miscellaneous
 
-- [readme.so](https://readme.so/editor) - Create markdown formatted text easily with this online tool
+
  
