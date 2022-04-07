@@ -16,7 +16,8 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
   - [Knowledge Management](#knowledge-management)
   - [Miscellaneous](#miscellaneous)
 
-## Resources
+## Resources 
+- 
 
 ## Tools and Apps
 
@@ -30,7 +31,13 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 [Bitwarden](https://bitwarden.com/) - **Bitwarden** is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault.
 
-### Knowledge Management
+### Knowledge Management 
+
+- [Stackoverflow](https://stackoverflow.co/explore-teams/) -  Our public platform serves 100 million people every month, making it one of the most popular 
+
+   websites in the world.
+
+Our asynchronous knowledge management and collaboration offering, Stack Overflow for Teams, is transforming how people work. 
 
 ### Miscellaneous
 
