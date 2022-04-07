@@ -18,9 +18,77 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ## Resources
 
+
+
 ## Tools and Apps
 
 ### Note Management
+
+### 1.**Joplin**
+
+ _Key Features_
+
+* Mark Down support
+* Support for attachments
+* Encryption support
+* Cross-platform including Android app
+
+**Description**:
+
+Joplin is a free open source note taking app that supports encryption.
+
+If you’re curious, you can read our detailed article on [Joplin](https://itsfoss.com/joplin/)to know more about it. 
+
+
+### 2. **Simplenote**
+
+
+_Key Features_
+ 
+* Mark Down support
+* Simple user interface
+* Easily sync using Simplenote account
+* 32 bit package available
+* Cross-platform including Mobile apps
+
+**Description:**
+
+As the name suggests, it is a simple free and open-source note taking app.
+
+Developed by [Automattic](https://automattic.com/) (the company behind WordPress), Simplenote lets you seamlessly sync your notes across multiple devices. It supports Android, iOS, Windows, Linux, and macOS as well.
+
+
+
+
+
+### 3. **Standard Notes**
+
+
+_Key Features_
+
+* Markdown support
+* Encryption support
+* Sync support
+* Version history of notes (paid plan)
+* Cross-platform including mobile apps
+* 32-bit package offered
+* Offers premium options
+
+
+**Description**
+
+Standard Notes is being actively developed. While it offers a great deal of features, some of them are limited to paid subscribers as “extended features” or extensions which is on the expensive side (for monthly subscription). You can also refer to our separate article on [Standard Notes](https://itsfoss.com/standard-notes/) to learn more about it.
+
+
+
+
+
+
+
+
+
+
+###
 
 ### Task Management
 
