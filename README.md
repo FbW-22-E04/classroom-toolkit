@@ -8,7 +8,6 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 - [Resources](#resources)
   - [FreeCodeCamp](#FreeCodeCamp) 
-
 - [Tools and Apps](#tools-and-apps)
   - [Note Management](#note-management)
   - [Task Management](#task-management)
