@@ -26,6 +26,8 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Task Management
 
+- __[Trello](https://trello.com/)__ - Trello is the flexible work management tool where teams can ideate plans, collaborate on projects, organize workflows, and track progress in a visual, productive, and rewarding way.
+
 ### Habit Trackers
 
 - __[Loot Habit Tracker](https://loophabits.org/)__ - Loop is a mobile app that helps you create and maintain good habits, allowing you to achieve your long-term goals. Detailed graphs and statistics show you how your habits improved over time. It is completely ad-free and open source.
