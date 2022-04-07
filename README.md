@@ -19,9 +19,15 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ## Resources
 
+### For learning Web development
+
+- [FreeCodeCamp](https://www.freecodecamp.org/) - learn to code for free.
+
+
 ## Tools and Apps
 
 ### Note Management
+[Notion](https://www.notion.so/) - is the all-in-one workspace that combines notes, docs, project management, and wikis — and makes them all customizable. 
 
 - __[Miro](https://miro.com/)__ - The online collaborative whiteboard platform that enables distributed teams to work effectively together, from brainstorming with digital sticky notes to planning and managing agile workflows.
 
