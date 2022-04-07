@@ -17,7 +17,7 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
   - [Miscellaneous](#miscellaneous)
 
 ## Resources
-
+  - [html_tables](https://www.codecademy.com/learn/learn-html/modules/learn-html-tables/cheatsheet) - Let help you to create a table in html with a table-cheatsheet
 ## Tools and Apps
 
 ### Note Management
