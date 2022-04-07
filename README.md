@@ -36,7 +36,6 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Miscellaneous
 
-## Dating Apps
 
 - [readme.so](https://readme.so/editor) - Create markdown formatted text easily with this online tool
 
