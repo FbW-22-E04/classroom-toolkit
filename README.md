@@ -23,7 +23,11 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Note Management
 
+- __[Miro](https://miro.com/)__ - The online collaborative whiteboard platform that enables distributed teams to work effectively together, from brainstorming with digital sticky notes to planning and managing agile workflows.
+
 ### Task Management
+
+- __[Trello](https://trello.com/)__ - Trello is the flexible work management tool where teams can ideate plans, collaborate on projects, organize workflows, and track progress in a visual, productive, and rewarding way.
 
 ### Habit Trackers
 
