@@ -1,4 +1,4 @@
-#MindShift
+#![MindShift](https://www.anxietycanada.com/resources/mindshift-cbt/)
 
 >   Price: Free
     Key features: CBT-based tools,community forum, guided meditations
