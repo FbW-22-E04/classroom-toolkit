@@ -45,7 +45,7 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Password Manager
 
-[Bitwarden](https://bitwarden.com/) - **Bitwarden** is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault.
+- [Bitwarden](https://bitwarden.com/) - **Bitwarden** is a free and open-source password management service that stores sensitive information such as website credentials in an encrypted vault.
 
 - [Lastpass](https://www.lastpass.com/) - Lastpass is on of the best web for security.
 
