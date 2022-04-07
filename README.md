@@ -7,7 +7,7 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 ## Table of Contents
 
 - [Resources](#resources)
-  - [FreeCodeCamp](#FreeCodeCamp) 
+  - [![FreeCodeCamp](https://https://www.freecodecamp.org/)](https://freecodecamp.org/)
 - [Tools and Apps](#tools-and-apps)
   - [Note Management](#note-management)
   - [Task Management](#task-management)
