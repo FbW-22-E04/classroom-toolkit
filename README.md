@@ -24,6 +24,8 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Task Management
 
+- [Habitica](https://habitica.com/static/home) - Habitica is extremely creative in its approach to tracking and maintaining good habits. It is inspired by RPG video games, each task you complete will level up your customized avatar giving you an extra incentive to stay motivated.
+
 ### Habit Trackers
 
 ### Task Automation
