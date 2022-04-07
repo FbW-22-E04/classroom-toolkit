@@ -18,6 +18,8 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ## Resources
 
+- [Markdown](https://readme.so/editor) - Create markdown formatted text easily with this online tool
+
 ## Tools and Apps
 
 ### Note Management
