@@ -34,3 +34,5 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Miscellaneous
  
+### Mind Skills
+- Relaxation App: Mind Shift
