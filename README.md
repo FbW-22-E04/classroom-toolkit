@@ -21,6 +21,7 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 ## Tools and Apps
 
 ### Note Management
+[Notion](https://www.notion.so/) - is the all-in-one workspace that combines notes, docs, project management, and wikis — and makes them all customizable. 
 
 ### Task Management
 
