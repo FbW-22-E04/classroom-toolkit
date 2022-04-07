@@ -28,6 +28,8 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Task Automation
 
+- [Zapier](https://zapier.com/) - Zapier is one of the most comprehensive automation tools available, and it’s a top choice for small and large businesses alike. 
+
 ### Password Manager
 
 ### Knowledge Management
