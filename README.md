@@ -17,7 +17,8 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
   - [Miscellaneous](#miscellaneous)
   - [Mindfulness](#mindfulness)
 
-## Resources
+## Resources 
+- 
 
 - [FreeCodeCamp](https://www.freecodecamp.org/) - learn to code for free.
 
@@ -49,7 +50,13 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 - [Lastpass](https://www.lastpass.com/) - Lastpass is on of the best web for security.
 
-### Knowledge Management
+### Knowledge Management 
+
+- [Stackoverflow](https://stackoverflow.co/explore-teams/) -  Our public platform serves 100 million people every month, making it one of the most popular 
+
+   websites in the world.
+
+Our asynchronous knowledge management and collaboration offering, Stack Overflow for Teams, is transforming how people work. 
 
 - [Bubbl.us](https://bubbl.us/) - **Bubbl.us** Is a web-based mind mapping app allows you to build, save, and share up to three mind maps on the free plan.
 
