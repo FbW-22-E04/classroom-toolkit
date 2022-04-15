@@ -19,7 +19,10 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ## Resources
 
+- [html_tables](https://www.codecademy.com/learn/learn-html/modules/learn-html-tables/cheatsheet) - Let help you to create a table in html with a table-cheatsheet
+
 - [FreeCodeCamp](https://www.freecodecamp.org/) - learn to code for free.
+
 
 ## Tools and Apps
 
