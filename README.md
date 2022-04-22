@@ -24,6 +24,7 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 ## Tools and Apps
 
 ### Note Management
+  - [Evernote](https://evernote.com)- Using Evernote, you can store everything from personal thoughts and ideas to business projects, and know they’re always safe and secure, and easily accessible whenever you need them!
 
 - [Notion](https://www.notion.so/) - is the all-in-one workspace that combines notes, docs, project management, and wikis — and makes them all customizable.
 
