@@ -32,9 +32,15 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 ### Task Management
 
+
+### Editors
+
+- [readme.so](https://readme.so/editor) - Create markdown formatted text easily with this online tool
+
 - [Habitica](https://habitica.com/static/home) - Habitica is extremely creative in its approach to tracking and maintaining good habits. It is inspired by RPG video games, each task you complete will level up your customized avatar giving you an extra incentive to stay motivated.
 
 - [Trello](https://trello.com/) - Trello is the flexible work management tool where teams can ideate plans, collaborate on projects, organize workflows, and track progress in a visual, productive, and rewarding way.
+
 
 ### Habit Trackers
 
@@ -50,16 +56,16 @@ See the [contributing guide](CONTRIBUTING.md) for detailed instructions on how t
 
 - [Lastpass](https://www.lastpass.com/) - Lastpass is on of the best web for security.
 
+
 ### Knowledge Management
 
 - [Bubbl.us](https://bubbl.us/) - **Bubbl.us** Is a web-based mind mapping app allows you to build, save, and share up to three mind maps on the free plan.
 
 ### Miscellaneous
 
-- [readme.so](https://readme.so/editor) - Create markdown formatted text easily with this online tool
-
 ### Mindfulness
 
 - [MindShift](https://www.anxietycanada.com/resources/mindshift-cbt/) - Is a great App to learn relaxation skills, develop healthy ways of thinking, and make lasting behavioral changes. It includes a thought journal, chill zone with guided meditations, and a “quick relief” tool.
 
 - [Take a Break](https://www.meditationoasis.com/apps) - Developed by Meditation Oasis, Take a Break! is an app that helps you quickly recharge. Listen to a 7-minute Work Break or 13-minute Stress Relief recording with or without music or nature sounds.
+
